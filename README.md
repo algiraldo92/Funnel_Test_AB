@@ -30,3 +30,5 @@ In the project, when conducting the A/A/B experiment, we observed that there wer
 Through the conversion funnel analysis, it was concluded that the tutorial was not essential at any step and that users did not follow a specific order when interacting with the application.
 
 The percentage of customers who complete the process (reaching "PaymentScreenSuccessful") or make a purchase is approximately 48%. The highest customer drop-off occurs when users leave after interacting with the main page.
+
+[Link Project](https://github.com/algiraldo92/Funnel_Test_AB/blob/main/Funnel_Test_AB.ipynb)
